@@ -35,7 +35,7 @@ export const EducationSection = () => {
             <CardHeader>
               <CardTitle>B.Tech in Computer Science & Engineering</CardTitle>
               <p className="text-sm text-muted-foreground">
-                Ramkrishna Mahato Government Engineering College (RMGEC) — 2025 – Present
+                Ramkrishna Mahato Government Engineering College (RKMGEC) — 2025 – Present
               </p>
             </CardHeader>
             <CardContent className="text-xs text-muted-foreground space-y-2">

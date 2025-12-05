@@ -8,7 +8,7 @@ export const CareerTimeline = () => {
       title: "B.TECH in Computer Science & Engineering",
       subtitle: "Ramkrishna Mahato Govt. Engineering College,Purulia",
       description:
-        "I’m currently pursuing my B.Tech in Computer Science and Engineering at RMGEC 🎓💻. As a first-year student, I’m building a strong foundation in core programming concepts 🧩, software development 🧑‍💻, and emerging technologies 🤖🌐. I’m driven by curiosity 🔍 and passionate about understanding how things work behind the scenes in the digital world ⚙️✨.",
+        "I’m currently pursuing my B.Tech in Computer Science and Engineering at RKMGEC 🎓💻. As a first-year student, I’m building a strong foundation in core programming concepts 🧩, software development 🧑‍💻, and emerging technologies 🤖🌐. I’m driven by curiosity 🔍 and passionate about understanding how things work behind the scenes in the digital world ⚙️✨.",
       icon: <Globe className="h-4 w-4 mr-2 text-primary" />,
     },
 {
