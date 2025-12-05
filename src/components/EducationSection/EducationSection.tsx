@@ -65,7 +65,7 @@ export const EducationSection = () => {
               <ul className="list-disc list-inside space-y-1">
                 <li>HTML5, CSS3, Tailwind CSS 🎨🧩</li>
                 <li>JavaScript (ES6+), React, Vite ⚛️⚡</li>
-                <li>Organized annual tech fest for 3 consecutive years</li>
+                <li>Learning Back-end With MERN Stack</li>
               </ul>
               <p>
                 <strong>☁️ Hosting & Dev Tools</strong>
