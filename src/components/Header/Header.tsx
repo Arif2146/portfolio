@@ -16,6 +16,7 @@ const navItems = [
 export default function Header() {
   const [theme, setTheme] = useState<string>(() => {
     return localStorage.getItem("theme") || "dark";
+
   });
   const [showHeader, setShowHeader] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
